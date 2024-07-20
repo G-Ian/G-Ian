@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G-Ian
+- 👋 Hi, I’m Ian
 - 👀 I’m interested in website development, machine learning and 2d and 3d graphic design and animation
 - 🌱 I’m currently learning python and php
 - 💞️ I’m looking to collaborate on websites and machine learning projects
